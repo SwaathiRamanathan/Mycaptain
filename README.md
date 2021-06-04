@@ -1,2 +1,2 @@
-# Mycaptain
-Task 1
+#Display "Hello World!"
+print("Hello World!")
